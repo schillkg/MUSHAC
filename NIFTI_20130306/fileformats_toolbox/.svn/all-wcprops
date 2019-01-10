@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox
+END
+writePARRECtoAxialAVW.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writePARRECtoAxialAVW.m
+END
+savePARRECavw_forceAnatom2Axial.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePARRECavw_forceAnatom2Axial.m
+END
+savePARREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePARREC.m
+END
+saveTDF.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/saveTDF.m
+END
+computeMTR.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/computeMTR.m
+END
+savePARfREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePARfREC.m
+END
+.#Analyze2PARREC.m.1.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/.%23Analyze2PARREC.m.1.1
+END
+.#Analyze2PARREC.m.1.2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/.%23Analyze2PARREC.m.1.2
+END
+createPARFile.m~
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/createPARFile.m~
+END
+writeXFM.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writeXFM.m
+END
+readAIRfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/readAIRfile.m
+END
+viewPARREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/viewPARREC.m
+END
+writeAVWtoPARREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writeAVWtoPARREC.m
+END
+writePARRECtoAVW.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writePARRECtoAVW.m
+END
+loadDPF.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadDPF.m
+END
+loadTDF.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadTDF.m
+END
+computeMean.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/computeMean.m
+END
+writePARfRECtoAVW.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writePARfRECtoAVW.m
+END
+loadPARfREC.asv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadPARfREC.asv
+END
+Analyze2PARREC.m~
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/Analyze2PARREC.m~
+END
+computeAbsoluteT1.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/computeAbsoluteT1.m
+END
+computeAbsoluteT2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/computeAbsoluteT2.m
+END
+default_v3.par
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/default_v3.par
+END
+loadPARfREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadPARfREC.m
+END
+updatePARfile.m~
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/updatePARfile.m~
+END
+default_v4.par
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/default_v4.par
+END
+read_cpx.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/read_cpx.m
+END
+updatePARfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/updatePARfile.m
+END
+.#loadPAR.m.1.18
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/.%23loadPAR.m.1.18
+END
+frec2rec.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/frec2rec.m
+END
+safeTex.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/safeTex.m
+END
+savePAR.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePAR.m
+END
+writePrinceRaw.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writePrinceRaw.m
+END
+get_DICOM_info.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/get_DICOM_info.m
+END
+createPARFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/createPARFile.m
+END
+savePARRECavw.m~
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePARRECavw.m~
+END
+loadREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadREC.m
+END
+savePARRECavw.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/savePARRECavw.m
+END
+loadPARREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadPARREC.m
+END
+writeAVWtoPARfREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writeAVWtoPARfREC.m
+END
+loadPAR.asv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadPAR.asv
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/readme.txt
+END
+loadPAR.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/loadPAR.m
+END
+Analyze2PARREC.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/Analyze2PARREC.m
+END
+defaultPARVars.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/defaultPARVars.m
+END
+writeAIRfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/masi-fusion/!svn/ver/150/src/ext/fileformats_toolbox/writeAIRfile.m
+END
